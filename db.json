@@ -1,0 +1,110 @@
+{
+  "uploadVideos": [
+    {
+      "id": "1285",
+      "caption": "Mighty Mike",
+      "imageURL": "https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt7b93906cb54fe59c/64d3a92e49f5433872be5be5/mightymike_201_0.png",
+      "videoURL": "https://www.youtube.com/embed/dm0UyvqF89Q"
+    },
+    {
+      "id": "a118",
+      "caption": "44 Cats",
+      "imageURL": "https://assets.popfun.co.uk/wp-content/uploads/2020/05/20162319/44cats_show_image_01-min.png",
+      "videoURL": "https://www.youtube.com/embed/L6GvNdxwe0o"
+    },
+    {
+      "caption": "Kena Bridge of Spirits",
+      "imageURL": "https://i.ytimg.com/vi/-vZkt4fCkOc/maxresdefault.jpg",
+      "videoURL": "https://www.youtube.com/embed/pWh5388AEHw",
+      "id": "l1iuaUu"
+    },
+    {
+      "caption": "Encanto",
+      "imageURL": "https://i.ytimg.com/vi/QlVFvINK35M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBVC9rJ9G0mlANRu5st9vPtmgCrw",
+      "videoURL": "https://www.youtube.com/embed/CaimKeDcudo",
+      "id": "lINH-tB"
+    }
+  ],
+  "categories": [
+    {
+      "id": "986e",
+      "categoryName": "Games",
+      "allVideos": [
+        {
+          "id": "1072",
+          "caption": "Stray",
+          "imageURL": "https://i.ytimg.com/vi/4uP2MyUL49s/maxresdefault.jpg",
+          "videoURL": "https://www.youtube.com/embed/u84hRUQlaio"
+        }
+      ]
+    },
+    {
+      "id": "32e3",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "caption": "The Wild Robot",
+          "imageURL": "https://i.ytimg.com/vi/67vbA5ZJdKQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoq1izNJwfVNliFfltUF4A-5kG4A",
+          "videoURL": "https://www.youtube.com/embed/67vbA5ZJdKQ",
+          "id": "A6v4oFo"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "128d",
+      "caption": "Mighty Mike",
+      "videoURL": "https://www.youtube.com/embed/dm0UyvqF89Q",
+      "timeStamp": "11/1/2024, 9:57:27 AM GMT+5:30"
+    },
+    {
+      "id": "b29c",
+      "caption": "44 Cats",
+      "videoURL": "https://www.youtube.com/embed/L6GvNdxwe0o",
+      "timeStamp": "11/1/2024, 9:57:32 AM GMT+5:30"
+    },
+    {
+      "id": "4e5e",
+      "caption": "Secret Life of Pets",
+      "videoURL": "https://www.youtube.com/embed/i-80SGWfEjM",
+      "timeStamp": "11/1/2024, 9:57:36 AM GMT+5:30"
+    },
+    {
+      "id": "0cf0",
+      "caption": "Secret Life of Pets",
+      "videoURL": "https://www.youtube.com/embed/i-80SGWfEjM",
+      "timeStamp": "11/1/2024, 10:26:27 AM GMT+5:30"
+    },
+    {
+      "id": "2c3c",
+      "caption": "Secret Life of Pets",
+      "videoURL": "https://www.youtube.com/embed/i-80SGWfEjM",
+      "timeStamp": "11/5/2024, 9:14:08 AM GMT+5:30"
+    },
+    {
+      "id": "8188",
+      "caption": "Stray",
+      "videoURL": "https://www.youtube.com/embed/u84hRUQlaio",
+      "timeStamp": "11/5/2024, 10:33:15 AM GMT+5:30"
+    },
+    {
+      "id": "1871",
+      "caption": "Black Myth Wukong",
+      "videoURL": "https://www.youtube.com/embed/TdjZ84mlFlo",
+      "timeStamp": "11/6/2024, 9:19:50 AM GMT+5:30"
+    },
+    {
+      "caption": "The Wild Robot",
+      "videoURL": "https://www.youtube.com/embed/67vbA5ZJdKQ",
+      "timeStamp": "11/7/2024, 9:12:18 AM GMT+5:30",
+      "id": "ViPN0St"
+    },
+    {
+      "caption": "Stray",
+      "videoURL": "https://www.youtube.com/embed/u84hRUQlaio",
+      "timeStamp": "11/7/2024, 9:19:02 AM GMT+5:30",
+      "id": "WUpfON2"
+    }
+  ]
+}
